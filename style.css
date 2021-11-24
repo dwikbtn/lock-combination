@@ -1,0 +1,12 @@
+.container {
+  margin: 0 auto;
+  max-width: 48rem;
+  width: 75%;
+}
+
+table,
+th,
+tr,
+td {
+  border: 1px solid black;
+}

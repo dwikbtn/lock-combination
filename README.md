@@ -16,8 +16,10 @@ combinasi yang sudah digunakan
 - mia
 - tat
 
-Coba masukan 3 kombinasi huruf, software ini akan mengecek apakah kombinasi tersebut bisa digunakan atau tidak.
+Masukan 3 kombinasi huruf, software ini akan mengecek apakah kombinasi tersebut bisa digunakan atau tidak.
 
 ## Cara Penggunaan
 
 Cukup masukan tiga Kombinasi huruf, website ini akan menunjukan apakah kombinasi tersebut valid atau tidak
+
+## Algoritha
